@@ -1,0 +1,9 @@
+-  A technique to improve performance of virtualization
+-  The guest OS is modified to be hypervisor aware  
+-  Hypervisor provides paravirtual device drivers and APIs  
+-  Guest OS uses these instead of emulated devices  
+- The hypervisor presents a paravirtual interface  
+- Special calls replace hardware instructions  
+- For example, hypercalls instead of SYSCALL  
+- Guest uses hypercall for CPU mode transitions  
+- Avoids traps and emulation overhead

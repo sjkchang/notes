@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "707a3651eab7b05b",
+        "id": "beb6853181c8086f",
         "type": "tabs",
         "children": [
           {
-            "id": "83273586896dcbcd",
+            "id": "5521d45e8a231eda",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -118,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2023-10-19.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -140,9 +138,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "420b0bffa48f067f",
+  "active": "5521d45e8a231eda",
   "lastOpenFiles": [
+    "2023-10-19.md",
+    "Operating Systems/Virtual File System.md",
+    "Operating Systems/Operating Systems (OS).md",
+    "Operating Systems/Kernel.md",
+    "Operating Systems/Files System.md",
+    "Virtual Machines/Virtual Machines.md",
+    "Virtual Machines/Hypervisor.md",
+    "Architectures.md",
+    "Enterprise Distributed Systems.md",
+    "Distributed File Systems.md",
+    "Containers/Linux Primitives.md",
+    "Virtual Machines",
+    "Containers",
+    "Containers/Containers.md",
     "Untitled.canvas",
-    "2023-10-19.md"
+    "Data Mining/Data Mining Methodologies.md",
+    "Data Mining/Data Mining.md",
+    "Data Mining",
+    "Operating Systems",
+    "Virtual Machines/Para-Virtualization.md",
+    "Operating Systems.md",
+    "Networking.md",
+    "Methodologies.md",
+    "Natural Language Processing.md",
+    "Recommendation Systems.md",
+    "Microservice.md",
+    "Enterprise Platforms.md"
   ]
 }
