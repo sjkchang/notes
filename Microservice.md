@@ -1,0 +1,3 @@
+- Single purpose primitive
+	- One job do it right
+	- 
