@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b6272769ecc4e151",
+        "id": "beb6853181c8086f",
         "type": "tabs",
         "children": [
           {
-            "id": "81c6268208ce5f08",
+            "id": "5521d45e8a231eda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Virtual File System.md",
+                "file": "Data Mining/Data Mining.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 300
   },
   "right": {
     "id": "370db02184ddb5c0",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Virtual File System.md",
+                "file": "Data Mining/Data Mining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Virtual File System.md",
+                "file": "Data Mining/Data Mining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Virtual File System.md"
+                "file": "Data Mining/Data Mining.md"
               }
             }
           }
@@ -146,39 +146,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81c6268208ce5f08",
+  "active": "5521d45e8a231eda",
   "lastOpenFiles": [
+    "Data Mining/Data Mining Methodologies.md",
+    "Data Mining/Code Interpreter.md",
+    "Data Mining/Data Mining.md",
+    "Data Mining/Data Science Workflow.md",
+    "Data Mining/Prompt Engineering.md",
+    "SDLC/Software Development Methodologies And Lifecycles.md",
+    "SDLC/Madhur - Organization SDLC - Case Study.md",
+    "SDLC/DevOps.md",
+    "SDLC/Amazon Development Lifecycle.md",
+    "SDLC",
+    "Project Idea/Purely Technical Resume.md",
+    "Project Idea",
+    "Microservice.md",
+    "Google File System (GFS).md",
+    "Enterprise Software and Platforms.md",
+    "2023-10-19.md",
+    "Operating Systems/Virtual File System.md",
     "Operating Systems/Operating Systems (OS).md",
     "Operating Systems/Kernel.md",
     "Operating Systems/Files System.md",
-    "Data Mining/Data Mining Methodologies.md",
-    "Data Mining/Data Mining.md",
-    "Containers/Linux Primitives.md",
-    "Containers/Containers.md",
-    "Kubernetes.md",
-    "SDLC/Madhur - Organization SDLC - Case Study.md",
-    "SDLC/Software Development Methodologies And Lifecycles.md",
-    "Networking.md",
-    "Google File System (GFS).md",
-    "Distributed File Systems.md",
-    "Enterprise Distributed Systems.md",
-    "Microservice.md",
-    "SDLC/Amazon Development Lifecycle.md",
-    "Project Idea/Purely Technical Resume.md",
-    "Untitled.canvas",
-    "Project Idea",
-    "SDLC/DevOps.md",
-    "Enterprise Platforms.md",
-    "Enterprise Software and Platforms.md",
-    "Epics.md",
-    "SDLC",
-    "Continuous delivery.md",
-    "Recommendation Systems.md",
-    "Natural Language Processing.md",
+    "Virtual Machines/Virtual Machines.md",
+    "Virtual Machines/Hypervisor.md",
     "Architectures.md",
-    "2023-10-19.md",
+    "Enterprise Distributed Systems.md",
+    "Distributed File Systems.md",
+    "Containers/Linux Primitives.md",
     "Virtual Machines",
     "Containers",
+    "Containers/Containers.md",
+    "Untitled.canvas",
     "Data Mining",
     "Operating Systems"
   ]
