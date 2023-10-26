@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Mining/Data Mining.md",
+                "file": "CRISP-DM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Mining/Data Mining.md",
+                "file": "CRISP-DM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Mining/Data Mining.md",
+                "file": "CRISP-DM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Mining/Data Mining.md"
+                "file": "CRISP-DM.md"
               }
             }
           }
@@ -149,10 +149,11 @@
   "active": "5521d45e8a231eda",
   "lastOpenFiles": [
     "Data Mining/Data Mining Methodologies.md",
-    "Data Mining/Code Interpreter.md",
+    "CRISP-DM.md",
     "Data Mining/Data Mining.md",
-    "Data Mining/Data Science Workflow.md",
+    "Data Mining/Code Interpreter.md",
     "Data Mining/Prompt Engineering.md",
+    "Data Mining/Data Science Workflow.md",
     "SDLC/Software Development Methodologies And Lifecycles.md",
     "SDLC/Madhur - Organization SDLC - Case Study.md",
     "SDLC/DevOps.md",
