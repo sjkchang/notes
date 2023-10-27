@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "beb6853181c8086f",
+        "id": "b6272769ecc4e151",
         "type": "tabs",
         "children": [
           {
-            "id": "5521d45e8a231eda",
+            "id": "81c6268208ce5f08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Mining/Data Mining.md",
+                "file": "Operating Systems/Virtual File System.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "707f9927a546c1bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Large Language Models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1e5ed04bbdb9604",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enterprise Security.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 241.5
   },
   "right": {
     "id": "370db02184ddb5c0",
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Mining/Data Mining.md",
+                "file": "Enterprise Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Mining/Data Mining.md",
+                "file": "Enterprise Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Mining/Data Mining.md"
+                "file": "Enterprise Security.md"
               }
             }
           }
@@ -146,38 +171,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5521d45e8a231eda",
+  "active": "c1e5ed04bbdb9604",
   "lastOpenFiles": [
-    "Data Mining/Data Mining Methodologies.md",
-    "Data Mining/Code Interpreter.md",
-    "Data Mining/Data Mining.md",
-    "Data Mining/Data Science Workflow.md",
-    "Data Mining/Prompt Engineering.md",
-    "SDLC/Software Development Methodologies And Lifecycles.md",
-    "SDLC/Madhur - Organization SDLC - Case Study.md",
-    "SDLC/DevOps.md",
-    "SDLC/Amazon Development Lifecycle.md",
-    "SDLC",
-    "Project Idea/Purely Technical Resume.md",
-    "Project Idea",
-    "Microservice.md",
+    "Enterprise Distributed Systems.md",
+    "Enterprise Security.md",
+    "Non Functional Requirements - NFR.md",
+    "Distributed File Systems.md",
+    "Enterprise Platforms.md",
     "Google File System (GFS).md",
+    "Data Mining/Data Mining.md",
+    "Microservice.md",
+    "Architectures.md",
     "Enterprise Software and Platforms.md",
-    "2023-10-19.md",
+    "Large Language Models.md",
     "Operating Systems/Virtual File System.md",
+    "Data Mining/Prompt Engineering.md",
+    "Data Mining/Data Science Workflow.md",
+    "Data Mining/Code Interpreter.md",
     "Operating Systems/Operating Systems (OS).md",
     "Operating Systems/Kernel.md",
     "Operating Systems/Files System.md",
-    "Virtual Machines/Virtual Machines.md",
-    "Virtual Machines/Hypervisor.md",
-    "Architectures.md",
-    "Enterprise Distributed Systems.md",
-    "Distributed File Systems.md",
+    "Data Mining/Data Mining Methodologies.md",
     "Containers/Linux Primitives.md",
+    "Containers/Containers.md",
+    "Kubernetes.md",
+    "SDLC/Madhur - Organization SDLC - Case Study.md",
+    "SDLC/Software Development Methodologies And Lifecycles.md",
+    "Networking.md",
+    "SDLC/Amazon Development Lifecycle.md",
+    "Untitled.canvas",
+    "Project Idea",
+    "SDLC",
     "Virtual Machines",
     "Containers",
-    "Containers/Containers.md",
-    "Untitled.canvas",
     "Data Mining",
     "Operating Systems"
   ]
